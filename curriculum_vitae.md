@@ -13,6 +13,7 @@
 
 |||
 |-|-|
+| 2020 | Red Hat Certified System Administrator [RHCSA](https://rhtapps.redhat.com/verify/?certId=200-101-848) |
 | 2018 | SEC642: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques |
 | 2016 | SEC660: Advanced Penetration Testing, Exploits, and Ethical Hacking [GXPN Certification](https://www.giac.org/certified-professional/radoslav-bodo/159186) |
 | 2015 | SEC560: Network Penetration Testing and Ethical Hacking |
