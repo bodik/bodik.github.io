@@ -98,4 +98,4 @@
 * **State of the art of Information Security**; semi-funny annual presentation, conference Europen; held on 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019
 
 
-In Pilsen 30.11.2019
+In Pilsen 18.7.2020
