@@ -3,7 +3,7 @@
 |||
 |-|-|
 | Name | Ing. Radoslav Bodó |
-| Birth | 23.7.1981 |
+| Birth | 1981 |
 | Address | Pilsen |
 | Contact | bodik@cesnet.cz |
 | Status | seeking challenge in security or distributed systems |
