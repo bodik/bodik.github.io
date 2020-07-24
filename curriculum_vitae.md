@@ -92,7 +92,7 @@
 * **mysphere1: Development of IDS in WEBnet network**: project report FR Cesnet; http://fondrozvoje.cesnet.cz 2009; czech version only
 * **Java, J2EE, Tomcat, JBoss**: 3 day workshop; viz [Java, J2EE, Tomcat, JBoss](j2ee_workshop.md)
 * **EGI Security Challenge 5**: Lehce na cvičišti; Reverse engineering for fun and profit; Conference proceedings Europen.cz, autumn 2011, Želiv; ISBN: 978-80-86583-22-8
-* **Expeciences with IDS and Honeypots**: terena.org Best Practice Document; http://www.terena.org/activities/campus-bp/pdf/gn3-na3-t4-cbpd135.pdf
+* **Expeciences with IDS and Honeypots**: terena.org Best Practice Document; https://services.geant.net/sites/cbp/Knowledge_Base/Network_Monitoring/Documents/gn3-na3-t4-cbpd135.pdf
 * **Harvesting Logs and Events Using MetaCentrum Virtualization Services**; Conference proceedings Europen.cz, spring 2013, Třešť; ISBN 978-80-86583-25-9; https://github.com/bodik/rsyslog2
 
 * **State of the art of Information Security**; semi-funny annual presentation, conference Europen; held on 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019
