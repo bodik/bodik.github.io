@@ -40,10 +40,10 @@
 
 ## Knowledge
 
-* programming
+* Programming
   * Python, PHP, Bash, C, SQL, PowerShell
-* distributed computing environments (enterprise information systems, grids, clouds)
-* computer network administration
+* Distributed computing environments (enterprise information systems, grids, clouds)
+* Computer network administration
 
 
 ## Experience
@@ -79,9 +79,9 @@
 
 ## Hobby
 
-* playing guitar, dancing salsa and bachata, cycling, juggling, volleyball, tramping
-* star trek
-* topics about formal and technical computer security
+* Playing guitar, dancing salsa and bachata, cycling, juggling, tramping
+* Star Trek
+* Topics about formal and technical computer security
 
 
 ## Publications
