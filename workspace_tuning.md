@@ -11,7 +11,7 @@
 * wm
   * toggle maximize - settings > window manager
   * focus follow mouse - settings > window manager 
-  * alt-delete/insert start terminal - settings > window manager
+  * alt-delete/insert start terminal - settings > keyboard
   * alt-arrow move workspace - settings > window manager
   * disable shadow -> settings > window manager tweaks > compositor
   * desktop icons -> desktop right mouse
@@ -22,6 +22,6 @@
 * apps
   * chrome
   * firefox
-  * iptables
+  * nftables
   * virtualbox, extpack
 
