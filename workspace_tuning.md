@@ -1,6 +1,10 @@
 # Workspace tunning
 
-* panels - reserve space for hidden panel on the side - settings > workspace
+* panels
+  * reserve space for hidden panel on the side - settings > workspace
+  * bottom panel disable grouping -- right mouse > panel > preferences > Items > windows buttons > edit
+    * sorting order - none
+    * grouping - never
 
 * terminal
   * do not show menu
@@ -24,4 +28,7 @@
   * firefox
   * nftables
   * virtualbox, extpack
+
+* misc
+  * pulseaudio - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
 
