@@ -32,4 +32,5 @@
 * misc
   * pulseaudio - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
+  * xfce 4.16 - "us,cz" must be set in /etc/default/keyboard, then keyboard switcher works as expected (might require re-adding on panel)
 
