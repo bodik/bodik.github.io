@@ -31,4 +31,5 @@
 
 * misc
   * pulseaudio - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
+  * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
 
