@@ -22,6 +22,7 @@
   * make things bigger on fulldh - settings > appearance -> dpi 120
   * power manager to tray
   * pulse audio to tray
+  * disable zoom desktop -- settings editor > xfwm4 > zoom_desktop
 
 * apps
   * chrome
