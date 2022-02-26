@@ -98,5 +98,9 @@
 
 * **State of the art of Information Security**; semi-funny annual presentation, conference Europen; held on 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019
 
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11218
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11217
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27958
+
 
 In Pilsen 24.7.2020
