@@ -19,7 +19,9 @@
   * alt-arrow move workspace - settings > window manager
   * disable shadow -> settings > window manager tweaks > compositor
   * desktop icons -> desktop right mouse
-  * make things bigger on fulldh - settings > appearance -> dpi 120
+  * make things bigger on FullHD
+    * settings > appearance -> dpi 120 (???)
+    * settings > display > 1600x900 (notebook)
   * power manager to tray
   * pulse audio to tray
   * disable zoom desktop -- settings editor > xfwm4 > zoom_desktop
