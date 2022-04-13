@@ -1,5 +1,8 @@
 # Workspace tunning
 
+* notebook
+  * make swap space 1.5+ times RAM for hibernation feature
+
 * panels
   * reserve space for hidden panel on the side - settings > workspace
   * bottom panel disable grouping -- right mouse > panel > preferences > Items > windows buttons > edit
