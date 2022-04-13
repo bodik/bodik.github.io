@@ -20,7 +20,7 @@
   * disable shadow -> settings > window manager tweaks > compositor
   * desktop icons -> desktop right mouse
   * make things bigger on FullHD
-    * settings > appearance -> dpi 120 (???)
+    * ???? settings > appearance -> dpi 120
     * settings > display > 1600x900 (notebook)
   * power manager to tray
   * pulse audio to tray
@@ -35,5 +35,4 @@
 * misc
   * pulseaudio - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
-  * xfce 4.16 - "us,cz" must be set in /etc/default/keyboard, then keyboard switcher works as expected (might require re-adding on panel)
-
+  * ??? xfce 4.16 - "us,cz" must be set in /etc/default/keyboard, then keyboard switcher works as expected (might require re-adding on panel)
