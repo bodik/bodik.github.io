@@ -39,6 +39,6 @@
 
 * notebook
   * tlp
-  * suspend on lid close -> settings > power manager
-    * system sleep mode -- suspend
-    * laptop lid -- suspend 
+  * lid close -> settings > power manager
+    * system sleep mode -- battery hibernate, plugged suspend
+    * laptop lid -- battery hibernate, plugged suspend 
