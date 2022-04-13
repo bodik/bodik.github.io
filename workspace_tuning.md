@@ -41,4 +41,4 @@
   * tlp
   * lid close -> settings > power manager
     * system sleep mode -- battery hibernate, plugged suspend
-    * laptop lid -- battery hibernate, plugged suspend 
+    * laptop lid -- battery suspend, plugged suspend 
