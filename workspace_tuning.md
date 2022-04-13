@@ -39,3 +39,6 @@
 
 * notebook
   * tlp
+  * suspend on lid close -> settings > power manager
+    * system sleep mode -- suspend
+    * laptop lid -- suspend 
