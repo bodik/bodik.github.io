@@ -2,6 +2,7 @@
 
 * notebook
   * make swap space 1.5+ times RAM for hibernation feature
+  * use ext4 (supports reducing size)
 
 * panels
   * reserve space for hidden panel on the side - settings > workspace
