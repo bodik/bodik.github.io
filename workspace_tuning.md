@@ -56,3 +56,5 @@
       * lid close -> settings > power manager
         * system sleep mode - battery hibernate, plugged hibernate
         * laptop lip - battery hibernate, plugged hibernate
+      * https://forums.lenovo.com/t5/Fedora/Touchpad-become-lag-and-Jumping-after-S3-suspend/m-p/5081818
+      * https://forums.lenovo.com/t5/ThinkPad-T400-T500-and-newer-T-series-Laptops/Thinkpad-T14s-Gen-2-Intel-touchpad-erratic-after-sleep/m-p/5114517
