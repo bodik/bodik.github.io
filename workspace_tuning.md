@@ -43,6 +43,16 @@
 
 * notebook
   * tlp
-  * lid close -> settings > power manager
-    * system sleep mode -- battery hibernate, plugged suspend
-    * laptop lid -- battery suspend, plugged suspend 
+  
+  ~~* lid close -> settings > power manager~~
+    ~~* system sleep mode -- battery hibernate, plugged suspend~~
+    ~~* laptop lid -- battery suspend, plugged suspend~~
+  
+  * T14s Gen2 power/sleep config, many of thinkpad laptops has sleep issues, sometimes they get fixed by bios updates
+    * bug1: "modern sleep" leaves fan running which might damage device in the bag
+    * bug2: S3 sleep is not handled well by touchpad, which became erratic after resume
+    * solution:
+      * use S3 sleep in bios
+      * lid close -> settings > power manager
+        * system sleep mode - battery hibernate, plugged hibernate
+        * laptop lip - battery hibernate, plugged hibernate
