@@ -44,14 +44,14 @@
 * notebook
   * tlp
   
-  ~~* lid close -> settings > power manager~~
-    ~~* system sleep mode -- battery hibernate, plugged suspend~~
-    ~~* laptop lid -- battery suspend, plugged suspend~~
+  * lid close -> settings > power manager
+    * system sleep mode -- battery hibernate, plugged suspend
+    * laptop lid -- battery suspend, plugged suspend
   
   * T14s Gen2 power/sleep config, many of thinkpad laptops has sleep issues, sometimes they get fixed by bios updates
     * bug1: "modern sleep" leaves fan running which might damage device in the bag
     * bug2: S3 sleep is not handled well by touchpad, which became erratic after resume
-    * solution:
+    * workaround:
       * use S3 sleep in bios
       * lid close -> settings > power manager
         * system sleep mode - battery hibernate, plugged hibernate
@@ -59,3 +59,4 @@
       * https://forums.lenovo.com/t5/Fedora/Touchpad-become-lag-and-Jumping-after-S3-suspend/m-p/5081818
       * https://forums.lenovo.com/t5/ThinkPad-T400-T500-and-newer-T-series-Laptops/Thinkpad-T14s-Gen-2-Intel-touchpad-erratic-after-sleep/m-p/5114517
       * https://pcsupport.lenovo.com/cz/en/products/laptops-and-netbooks/thinkpad-t-series-laptops/thinkpad-t14s-gen-2-type-20wm-20wn/20wm/20wm009fck/pf37smnh/downloads/ds549521-bios-update-utility-bootable-cd-for-windows-10-64-bit-linux-thinkpad-t14s-gen-2-type-20wm-20wn-x13-gen-2-type-20wk-20wl
+    * FIXED -- n35ur10w.iso 1.48	23 Aug 2022
