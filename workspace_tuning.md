@@ -21,6 +21,7 @@
   * toggle maximize (alt+b) - settings > window manager
   * focus follow mouse - settings > window manager 
   * alt-delete/insert start terminal - settings > keyboard
+    * clear alt-delete delete last workspace action - settings > window manager
   * alt-arrow move workspace - settings > window manager
   * disable shadow -> settings > window manager tweaks > compositor
   * desktop icons -> desktop right mouse
