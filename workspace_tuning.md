@@ -17,7 +17,7 @@
   * disable all menu access, disable menu shortcut (f10), disable help
 
 * wm
-  * toggle maximize - settings > window manager
+  * toggle maximize (alt+b) - settings > window manager
   * focus follow mouse - settings > window manager 
   * alt-delete/insert start terminal - settings > keyboard
   * alt-arrow move workspace - settings > window manager
