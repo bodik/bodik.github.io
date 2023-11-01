@@ -5,6 +5,7 @@
   * use ext4 (supports reducing size)
 
 * panels
+  * move panels, bottom and side
   * reserve space for hidden panel on the side - settings > workspace
   * bottom panel disable grouping -- right mouse > panel > preferences > Items > windows buttons > edit
     * sorting order - none
