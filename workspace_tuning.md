@@ -31,6 +31,35 @@
   * power manager to tray
   * pulse audio to tray
   * disable zoom desktop -- settings editor > xfwm4 > zoom_desktop
+  * update font alias for bookworm, ~/.config/fontconfig/fonts.conf
+```
+<?xml version="1.0"?>
+<!DOCTYPE fontconfig SYSTEM "urn:fontconfig:fonts.dtd">
+<!--
+bookworm aliases to match monospace a same font as bullseye
+https://forums.debian.net/viewtopic.php?t=154903
+
+## bullseye
+$ for i in sans serif mono ; do echo "$i: $(fc-match $i|awk -F\" '{print $2}')" ; done
+sans: DejaVu Sans
+serif: DejaVu Serif
+mono: DejaVu Sans Mono
+
+## bookworm
+for i in sans serif mono ; do echo "$i: $(fc-match $i|awk -F\" '{print $2}')" ; done
+sans: DejaVu Sans
+serif: DejaVu Serif
+mono: Noto Sans Mono
+
+-->
+
+<fontconfig>
+   <alias>
+      <family>monospace</family>
+      <prefer><family>DejaVu Sans Mono</family></prefer>
+   </alias>
+</fontconfig>
+```
 
 * apps
   * chrome
