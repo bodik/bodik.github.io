@@ -68,7 +68,9 @@ mono: Noto Sans Mono
   * virtualbox, extpack
 
 * misc
-  * pulseaudio - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
+  * pulseaudio/pipewire - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
+  * airpods 3gen + asus USB BT-500 + Debian 12 Bookworm - require to install and use `pipewire-pulse`, `libspa-0.2-bluetooth`
+    * https://wiki.archlinux.org/title/bluetooth_headset
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
 
 * notebook
