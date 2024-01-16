@@ -31,7 +31,7 @@
 
 |||
 |-|-|
-| 2011 - present | Cesnet.cz - security specialist |
+| 2014 - present | Cesnet.cz - security specialist |
 | 2011 - 2020 | Metacentrum.cz - security specialist | 
 | 2005 - 2014 | CIV ZCU, Pilsen - system administrator; incident response team member |
 | 2004 - present | Galileo Corporation s.r.o., Pilsen - system administrator |
