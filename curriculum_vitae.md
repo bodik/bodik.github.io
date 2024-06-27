@@ -42,7 +42,7 @@
 ## Knowledge
 
 * Programming
-  * Python, PHP, Bash, C, SQL, PowerShell
+  * Python, PHP, C
 * Distributed computing environments (enterprise information systems, grids, clouds)
 * Computer network administration
 
@@ -51,21 +51,19 @@
 
 * System administration and distributed computing environments operations
   * Linux, Unix, Windows administration
-* Virtualization technologies (Xen, VMware, Virtualbox, Docker)
-* Cloud technologies and configuration management (OpenNebula, Puppet)
+* Virtualization and cloud technologies (Xen, Virtualbox, Docker/K8s)
+* Configuration management (Puppet, Ansible)
 
 * Application servers operations and administration
-  * Apache Http Server, Apache Tomcat, Postfix, Mysql, Nagios, Bacula, Elasticsearch/Logstash/Kibana, KDC (Heimdal+MIT)
-  * RedHat JBoss, IBM Websphere Application Server, IBM WebSphere Portal Server
-  * LAMP performance tuning, PHP profiling
-  * programming of network and web applications (Python, PHP, C)
-  * Kerberos5, OpenAFS
+  * Apache Http Server, Apache Tomcat, Postfix, Mysql, Nagios, Bacula, ELK, KDC (Heimdal, MIT)
+  * RedHat JBoss
+  * LAMP performance tuning
+  * Network and web applications programming (Python, PHP, C)
 
 * Tasks related to information security
-  * Incident handling and response
-  * Forensic analysis, Reverse engineering
   * Penetration and stress testing
-  * Honeypot research and operations, network traffic surveillance
+  * Forensic analysis, Reverse engineering
+  * Incident handling and response
 
 * Publication and presentation skills
 
@@ -82,7 +80,6 @@
 
 * Playing guitar, dancing salsa and bachata, cycling, juggling, tramping
 * Star Trek
-* Topics about formal and technical computer security
 
 
 ## Publications
@@ -97,11 +94,11 @@
 * **Harvesting Logs and Events Using MetaCentrum Virtualization Services**; Conference proceedings Europen.cz, spring 2013, Třešť; ISBN 978-80-86583-25-9; https://github.com/bodik/rsyslog2
 * **WebAuthn is coming to town!**; BSS19, Prague; https://github.com/bodik/flask-webauthn-example/blob/master/presentation/flask-webauthn-example-02.pdf
 
-* **State of the art of Information Security**; semi-funny annual presentation, conference Europen; held on 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019
+* **State of the art of Information Security**; semi-funny annual presentation, conference Europen; held on 2008, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
 
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11218
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11217
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27958
 
 
-In Pilsen 24.7.2020
+In Pilsen 27.6.2024
