@@ -5,7 +5,7 @@
 | Name | Ing. Radoslav Bodó |
 | Birth | 1981 |
 | Address | Pilsen |
-| Contact | bodik@cesnet.cz |
+| Contact | radoslav.bodo@gmail.com |
 | Status | seeking challenge in security or distributed systems |
 
 
@@ -49,21 +49,19 @@
 
 ## Experience
 
-* System administration and distributed computing environments operations
-  * Linux, Unix, Windows administration
-* Virtualization and cloud technologies (Xen, Virtualbox, Docker/K8s)
-* Configuration management (Puppet, Ansible)
-
-* Application servers operations and administration
-  * Apache Http Server, Apache Tomcat, Postfix, Mysql, Nagios, Bacula, ELK, KDC (Heimdal, MIT)
-  * RedHat JBoss
-  * LAMP performance tuning
-  * Network and web applications programming (Python, PHP, C)
-
-* Tasks related to information security
-  * Penetration and stress testing
+* Cybersecurity
+  * Penetration testing
+    * Reverse engineering and exploit development
   * Forensic analysis, Reverse engineering
   * Incident handling and response
+
+* System administration and distributed computing environments operations
+  * Linux, Unix, Windows administration
+  * Virtualization and cloud technologies (Xen, Virtualbox, Docker, K8s)
+  * Configuration management (Puppet, Ansible)
+  * Application servers operations and administration
+    * Apache Http Server, Apache Tomcat, Postfix, Mysql, Nagios, Bacula, ELK, KDC (Heimdal, MIT)
+    * Network and web applications programming
 
 * Publication and presentation skills
 
@@ -99,6 +97,7 @@
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11218
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-11217
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27958
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-20179
 
 
-In Pilsen 27.6.2024
+In Pilsen 5.2.2025
