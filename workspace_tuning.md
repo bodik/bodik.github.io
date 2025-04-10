@@ -71,6 +71,8 @@ mono: Noto Sans Mono
   * pulseaudio/pipewire - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
   * airpods 3gen + asus USB BT-500 + Debian 12 Bookworm - require to install and use `pipewire-pulse`, `libspa-0.2-bluetooth`
     * https://wiki.archlinux.org/title/bluetooth_headset
+  * sony wh-ch720n + asus USB BT-500 + Debian 12 Bookworm
+    * ```libpipewire-0.3-0:amd64, libpipewire-0.3-common, libpipewire-0.3-modules:amd64, pipewire:amd64, pipewire-bin, pipewire-jack:amd64, pipewire-pulse, pulseaudio, pulseaudio-module-bluetooth, pulseaudio-utils, xfce4-pulseaudio-plugin:amd64```
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
 
 * notebook
