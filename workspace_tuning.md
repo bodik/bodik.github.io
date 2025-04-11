@@ -73,6 +73,7 @@ mono: Noto Sans Mono
     * https://wiki.archlinux.org/title/bluetooth_headset
   * sony wh-ch720n + asus USB BT-500 + Debian 12 Bookworm
     * ```libpipewire-0.3-0:amd64, libpipewire-0.3-common, libpipewire-0.3-modules:amd64, pipewire:amd64, pipewire-bin, pipewire-jack:amd64, pipewire-pulse, pulseaudio, pulseaudio-module-bluetooth, pulseaudio-utils, xfce4-pulseaudio-plugin:amd64, wireplumber```
+    * https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#missing-bluetooth-profiles--volume-control--etc
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
 
 * notebook
