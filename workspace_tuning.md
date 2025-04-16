@@ -72,6 +72,17 @@ mono: Noto Sans Mono
   * airpods 3gen + asus USB BT-500 + Debian 12 Bookworm - require to install and use `pipewire-pulse`, `libspa-0.2-bluetooth`
     * https://wiki.archlinux.org/title/bluetooth_headset
   * airpods 4gen + asus USB BT-500 + Debian 12 Bookworm - standard pulseaudio (no pipewire, no wireplumber) is sufficient
+    ```
+    $ dpkg -l | grep pipewire
+    $ dpkg -l | grep pulse
+    ii  libpulse-mainloop-glib0:amd64           16.1+dfsg1-2+b1                     amd64        PulseAudio client libraries (glib support)
+    ii  libpulse0:amd64                         16.1+dfsg1-2+b1                     amd64        PulseAudio client libraries
+    ii  libpulsedsp:amd64                       16.1+dfsg1-2+b1                     amd64        PulseAudio OSS pre-load library
+    ii  pulseaudio                              16.1+dfsg1-2+b1                     amd64        PulseAudio sound server
+    ii  pulseaudio-module-bluetooth             16.1+dfsg1-2+b1                     amd64        Bluetooth module for PulseAudio sound server
+    ii  pulseaudio-utils                        16.1+dfsg1-2+b1                     amd64        Command line tools for the PulseAudio sound server
+    ii  xfce4-pulseaudio-plugin:amd64           0.4.5-1                             amd64        Xfce4 panel plugin to control pulseaudio
+    ```
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
 
 * notebook
