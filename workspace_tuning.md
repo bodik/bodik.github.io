@@ -25,7 +25,7 @@
   * alt-arrow move workspace - settings > window manager
   * disable shadow -> settings > window manager tweaks > compositor
   * desktop icons -> desktop right mouse
-  * make things bigger on FullHD
+  * make things bigger  asus USB BT-500 + Debian 12 Bookwormon FullHD
     * ???? settings > appearance -> dpi 120
     * settings > display > 1600x900 (notebook)
   * power manager to tray
@@ -71,9 +71,7 @@ mono: Noto Sans Mono
   * pulseaudio/pipewire - in order to use microphone properly, default fallback device must be set properly (cam or headphones)
   * airpods 3gen + asus USB BT-500 + Debian 12 Bookworm - require to install and use `pipewire-pulse`, `libspa-0.2-bluetooth`
     * https://wiki.archlinux.org/title/bluetooth_headset
-  * sony wh-ch720n + asus USB BT-500 + Debian 12 Bookworm
-    * ```libpipewire-0.3-0:amd64, libpipewire-0.3-common, libpipewire-0.3-modules:amd64, pipewire:amd64, pipewire-bin, pipewire-jack:amd64, pipewire-pulse, pulseaudio, pulseaudio-module-bluetooth, pulseaudio-utils, xfce4-pulseaudio-plugin:amd64, wireplumber```
-    * https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/Troubleshooting#missing-bluetooth-profiles--volume-control--etc
+  * airpods 4gen + asus USB BT-500 + Debian 12 Bookworm - standard pulseaudio (no pipewire, no wireplumber) is sufficient
   * remmina - global keyboard settings, update host key from Control_R, which is required to pass to virtualbox when mouse is captured
 
 * notebook
