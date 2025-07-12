@@ -2,6 +2,7 @@
 
 * notebook
   * make swap space 1.5+ times RAM for hibernation feature
+  * secure boot can prevent hibernation
   * use ext4 (supports reducing size)
 
 * panels
@@ -32,6 +33,7 @@
   * pulse audio to tray
   * disable zoom desktop -- settings editor > xfwm4 > zoom_desktop
   * update font alias for bookworm, ~/.config/fontconfig/fonts.conf
+    * not required for trixie
 ```
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "urn:fontconfig:fonts.dtd">
